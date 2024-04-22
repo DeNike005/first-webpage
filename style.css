@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: brown; 
+    font-size: 100px; 
+    text-align: center; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+}
